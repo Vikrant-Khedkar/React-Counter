@@ -9,6 +9,7 @@
   background: gray;
 }
 
+
 button{
   color: white;
   padding: 5px,25px;
@@ -17,5 +18,5 @@ button{
   text-transform: uppercase; 
   width:300px;
   border-radius: 15px;
-  background-color: #007bff;
+    background-color: #007bff;
 }
